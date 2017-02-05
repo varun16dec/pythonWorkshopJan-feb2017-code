@@ -7,7 +7,7 @@
     
     pip3 install tweepy
 ###For running code 
-#####1.Fill the credential.json file fields from data from your app on apps.twitter.com 
+#####1.Fill the credential.json file fields with data from your app on apps.twitter.com 
 #####2.Run twitterClient.py
     
     python3 twitterClient.py
