@@ -1,7 +1,7 @@
 # Pyhton Workshop Jan-Feb 2017 
 ##Day 3 codes
 ##Twitter Streaming API 
-###Please Check directory named ```varun```
+###Please Check directory named *```varun```*
 ###To run the code please ensure you have tweepy installed in your system
 ####For installing tweepy
     
