@@ -1,0 +1,5 @@
+n=int(input()(
+i=
+	 if n%i==0
+		print 'number is not prime'
+	else 
